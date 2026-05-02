@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
   res.send(`
     <html>
       <body style="font-family: sans-serif; text-align: center; padding-top: 50px;">
-        <h1>🚀 SaaS App Version 1.0</h1>
+        <h1>🔥 SaaS App Version 2.0</h1>
         <p>Status: <strong>Live on AWS</strong></p>
         <p>Deployment: <strong>Automated via Buildkite</strong></p>
       </body>
